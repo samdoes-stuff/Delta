@@ -38,3 +38,9 @@ Also, I was struggling with the spacer height cause I don't want it to be thick 
 ![alt text](<Design File/Back Layer.png>)
 
 So, right now doing the assembly designing.
+
+The assembly is finished. Right now render time 
+
+![alt text](<3D & Plate/Screenshot 2026-07-28 151730.png>)
+![alt text](<3D & Plate/Screenshot 2026-07-28 151740.png>)
+![alt text](<3D & Plate/Screenshot 2026-07-28 151751.png>)
