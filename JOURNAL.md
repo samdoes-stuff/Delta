@@ -1,4 +1,4 @@
-26/07/2026 
+## 26/07/2026 
 
 All of the journals today. Cause I locked in so hard. I could not focus on anything else. Horizons got me bad. 
 
@@ -20,3 +20,21 @@ Then make a half handwire keeb! How's that possible. First of all FR4 is a great
 
 So, make a pcb and order from JLCPCB which is actually a plate. And to properly use it make some Colomn and Row routing so that I don't need to connect all of the swwitches with single core brass wire. 
 
+## 28/07/2026 
+
+So locked in to finish the project. Sorry for not detail journaling. But I already finished the routing but I need to made some changes. 
+
+1. Colomn pads are exposed so I don't separate pads for soldering. 
+2. Row pad are too farway from the board and I have to place my own MCU and considering that I pulled in the row pads inside. 
+
+Also, I was struggling with the spacer height cause I don't want it to be thick as well as well as I want it to be fitted with my design.
+
+![alt text](<Design File/Screenshot 2026-07-28 120614.png>)
+
+![alt text](<Design File/Screenshot 2026-07-28 120603.png>)
+
+![alt text](<Design File/Front Layer.png>)
+
+![alt text](<Design File/Back Layer.png>)
+
+So, right now doing the assembly designing.
