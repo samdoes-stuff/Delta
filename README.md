@@ -51,6 +51,14 @@ Fusion360 is being used for making the backplate and also for the assembly. For 
 
 ![cad1](<3D & Plate/Screenshot 2026-07-28 151751.png>)
 
+
+# Firmware & Flashing 
+
+**ZMK** is being used in the keyboard. My custom **Photon** MCU comes with pre installed firmware for the keyboard. For the convience, I shared the firmware file in this repo. Please refer to **Firmware** 
+
+If u have different MCU, you may have to build ZMK again for the specific MCU. Here is my [**ZMK_Config**](https://github.com/samdoes-stuff/zmk-config) repo. You can config from there.
+
+
 # AI Declaration 
 
 AI has been used to do web search and finding relevant information about the components. NO AI has been used in my PCB design. All the routings and design are manual and video logged
