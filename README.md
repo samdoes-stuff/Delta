@@ -32,6 +32,25 @@ This board is designed in Easyeda. It is two layer board comes with solderable M
 
 [📄 Schematic PDF](./Design%20File/SCH_Schematic1_2026-07-28.pdf)
 
+![front](<Design File/Front Layer.png>)
+
+![back](<Design File/Back Layer.png>)
+
+![pcb1](<Design File/Screenshot 2026-07-28 120603.png>)
+
+![pcb2](<Design File/Screenshot 2026-07-28 120614.png>)
+
+
+# CAD & Assembly 
+
+Fusion360 is being used for making the backplate and also for the assembly. For the **assembly file** & **backplate**, please refer to **3D & Plate** section of this repo.
+
+![cad1](<3D & Plate/Screenshot 2026-07-28 151730.png>)
+
+![cad1](<3D & Plate/Screenshot 2026-07-28 151740.png>)
+
+![cad1](<3D & Plate/Screenshot 2026-07-28 151751.png>)
+
 # AI Declaration 
 
 AI has been used to do web search and finding relevant information about the components. NO AI has been used in my PCB design. All the routings and design are manual and video logged
