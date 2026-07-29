@@ -14,13 +14,13 @@ The keyboard features JLCPCB's Colorful Silkscreen process with a Cosmic Orange 
 
 # Hardware 
 
-  Layout: 60%
-  Plate: 1.2 mm FR4 with integrated switch routing
-  Controller: [PHOTON](https://github.com/samdoes-stuff/Photon),(Custom MCU)
-  Connectivity: Low energy BLT + USB HID
-  Switches: Gateron KS-33 Brown
-  Stabilizer: Gateron Low profile Stabilizer Set 
-  Keycaps: DSA profile MX style Switches
+1. Layout: 60%
+2.  Plate: 1.2 mm FR4 with integrated switch routing
+3.  Controller: [PHOTON](https://github.com/samdoes-stuff/Photon),(Custom MCU)
+4.  Connectivity: Low energy BLT + USB HID
+5.  Switches: Gateron KS-33 Brown
+6.  Stabilizer: Gateron Low profile Stabilizer Set 
+7.  Keycaps: DSA profile MX style Switches
 
   ## BOM 
      Please refer to BOM.csv
