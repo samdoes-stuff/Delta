@@ -91,6 +91,9 @@ Now, I think about it. Works greatly cause my MCU would be in the middle. I may 
 
 So, yeah. That's it. I have to make the project more presentable and make sense cause It is weird as fck project. 
 
+More context, JLCPCB is well priced the keeb with multicolor silkscreen 
+
+![alt text](<Production File/cart.png>)
 
 There are all of the recording below: (My project is hackatime linked that's why I am not taking the piss to attach each lapse with each date) 
 
