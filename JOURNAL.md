@@ -132,3 +132,6 @@ There are all of the recording below: (My project is hackatime linked that's why
 - https://lookout.hackclub.com/api/media/902ad01e-57e9-47fe-8fd3-6fbb8dc3bc0b/video.mp4
 - https://lookout.hackclub.com/api/media/85b93188-4aab-47e5-a592-0b77e88653ef/video.mp4
 - https://lookout.hackclub.com/api/media/f173aa33-6849-4ac2-82b3-09843f01b924/video.mp4
+- https://lapse.hackclub.com/timelapse/X9GNSF3x418q
+- https://lapse.hackclub.com/timelapse/1dqmjk-5ka2x
+- https://lapse.hackclub.com/timelapse/GncaxiOsA7dC
