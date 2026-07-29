@@ -1,8 +1,12 @@
-Name,,Quantity,,Price ,Avaibility,,Link
-Gateron KS-33,,61,,,Self Funded,,
-Diode (C7420320),,61,,,Self Funded,,
+Name,,Quantity,MOQ,Price ,Avaibility,,Link
+Gateron KS-33,,61,70,26.4,Self Funded,,https://www.aliexpress.com/item/1005008834870768.html?spm=a2g0o.productlist.main.1.dd6aAdbkAdbkUR&algo_pvid=2064a150-868d-4fef-84ae-47813b659f3f&pdp_ext_f=%7B%22order%22%3A%22371%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008834870768%7C_p_origin_prod%3A
+Diode (C7420320),,61,100,1.4,Self Funded,,https://www.lcsc.com/product-detail/C7420320.html?s_z=n_q_C7420320&globalKeyword=C7420320
 Battery,,,,,,,
-MCU - (PHOTON),,1,,,Self Funded,,
-JLCPCB Cost+ Shipping,,,,23.71,Grant,,
-Wires,,,,,Self Funded,,
-BackPlate 3D print,,,,,Self Funded,,
+MCU - (PHOTON),,1,Varies,5,Self Funded,,https://github.com/samdoes-stuff/Photon
+JLCPCB Cost+ Shipping,,,,23.71,Grant,,https://github.com/samdoes-stuff/Delta/blob/main/Production%20File/cart.png
+9 AWG 1Meter,,,,3.91,Self Funded,,https://www.aliexpress.com/item/1005003315995205.html?spm=a2g0o.order_list.order_list_main.5.f1431802RZjuCn
+BackPlate 3D print Shipping,,,,10,Self Funded,,Printing Legion or My school's one
+Low Profile Stabilizer,,,,11.01,Self Funded,,https://www.aliexpress.com/item/1005005296240590.html?spm=a2g0o.order_list.order_list_main.98.308a1802XuSE8g
+Keycaps ,,,,10.91,Self Funded,,https://www.aliexpress.com/item/1005008988859052.html?spm=a2g0o.order_list.order_list_main.68.308a1802XuSE8g
+Aliexpress Shipping,,,,Free,,,
+USB extender (10cm),,,,5.74,Grant,,https://www.aliexpress.com/item/1005008710785524.html?spm=a2g0o.productlist.main.22.27bcK1yUK1yUFQ&algo_pvid=27c80142-8e9e-48ad-bc27-302231119d43&pdp_ext_f=%7B%22order%22%3A%226622%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008710785524%7C_p_origin_prod%3A
