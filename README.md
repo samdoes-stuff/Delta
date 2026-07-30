@@ -2,13 +2,13 @@
 
 ![alt](<3D & Plate/Delta v1.png>)
 
-Delta is a 60% low-profile mechanical keyboard built around a custom designed 1.2 mm FR4 plate that serves as both the switch plate and the switch interconnect PCB. Instead of using a traditional keyboard PCB, the FR4 plate integrates the electrical routing for the switches and SMD diodes while also exposing solder pads for each row and column.
+Delta is a 60% wireless low profile mechanical keyboard. Instead of a dedicated pcb for the keyboard, Delta uses a 1.2mm FR4 keyboard plate which works as both Keyboard Plate and PCB. Also, it uses SMD Diode rather than through hole diode. This plate also has coloumn and row outputs so that it can be connected with a seperate micro controller.
 
-At the heart of the keyboard is [PHOTON](https://github.com/samdoes-stuff/Photon), a custom microcontroller board that outputs the keyboard's row and column matrix. The integrated plate connects directly to PHOTON through wire connections.
+As a micro controller, I used my own devboard [PHOTON](https://github.com/samdoes-stuff/Photon), a custom keyboard controller which has dedicated coloumn and row output,
 
 ![alt text](<3D & Plate/photon.png>)
 
-The keyboard features JLCPCB's Colorful Silkscreen process with a Cosmic Orange finish on both sides, inspired by Apple's iPhone color palette. Combined with the custom backplate, battery mount, and USB extension board, Delta is a fully featured wireless and USB HID mechanical keyboard.
+I aspire the keyboard to be a cosmic orange color plate inspired by the iphone's color. By just using JLCPCB's multicolor silkscreen, I applied a cosmic orange silkscreen in the both side. Apart from that, the micro controller already features USB HID & Bluetooth (On board antenna).
 
 ![alt](<3D & Plate/Delta_2026-Jul-28_10-23-40PM-000_CustomizedView4533982454_png_alpha.png>)
 
