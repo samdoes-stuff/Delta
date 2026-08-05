@@ -1,0 +1,3 @@
+config BOARD_XD
+    bool "xd"
+    depends on SOC_NRF52840_QIAA
